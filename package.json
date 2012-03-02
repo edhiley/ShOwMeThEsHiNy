@@ -8,6 +8,5 @@
       "zombie": "*",
       "stylus": "*",
       "assert": "*"
-    },
-
+    }
 }

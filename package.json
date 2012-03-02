@@ -9,9 +9,5 @@
       "stylus": "*",
       "assert": "*"
     },
-    "devDependencies": {},
-    "repository": {
-     "type": "git",
-     "url": "git-edhiley@pl3.projectlocker.com:probulon.git"
-    }
+
 }

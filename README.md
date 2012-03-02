@@ -1,9 +1,10 @@
-spike of calling athens registration form using zappajs/zombiejs 
+Spike for calling athens registration form using zappajs/zombiejs 
+----------------------------------------------------------------
 
-install 
+install: 
   
-  npm install .
+    npm install .
   
-start
+start:
 
-  coffee athens.coffee
+    coffee athens.coffee

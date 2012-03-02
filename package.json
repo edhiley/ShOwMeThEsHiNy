@@ -1,0 +1,17 @@
+{    
+    "name": "athens-registration",
+    "description": "proxy for mobile athens registration",
+    "version": "0.1.0",
+    "author": "Edward hiley",
+    "dependencies": {
+      "zappa": "*",
+      "zombie": "*",
+      "stylus": "*",
+      "assert": "*"
+    },
+    "devDependencies": {},
+    "repository": {
+     "type": "git",
+     "url": "git-edhiley@pl3.projectlocker.com:probulon.git"
+    }
+}
